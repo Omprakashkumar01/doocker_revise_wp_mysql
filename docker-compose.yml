@@ -1,0 +1,31 @@
+version: "3.8"
+
+services:
+  webpg:
+    image: "wordpress:latest"
+    container_name: "wordp"
+    networks:
+    - mynet
+    volumes:
+    - "/data:/var/www/html/"
+    ports:
+    - 8080:80
+
+  db:
+    image: "mysql"
+    container_name: "mydb"
+    networks:
+    - mynet
+    volumes:
+    - /db:/var/lib/
+    environment:
+    - MYSQL_USER= "om"
+    - MYSQL_PASSWORD= "newpass"
+    - MYSQL_ROOT_PASSWORD= "redhat"
+networks:
+  mynet:
+    driver: bridge
+
+
+
+
