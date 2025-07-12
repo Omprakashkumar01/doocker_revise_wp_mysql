@@ -2,6 +2,7 @@
 
 This project sets up a **WordPress site** with a **MySQL database** using Docker Compose on a **Red Hat Enterprise Linux (RHEL)** environment. It simplifies the manual setup into a clean and maintainable YAML configuration.
 
+<img width="1200" height="1200" alt="My personalized network (mynet)" src="https://github.com/user-attachments/assets/de0312d8-3d83-424e-88a3-50d0dd29b030" />
 ---
 
 ## 📦 Project Structure
@@ -61,5 +62,4 @@ Visit:
 to complete the WordPress installation setup.
 
 
-<img width="1200" height="1200" alt="My personalized network (mynet)" src="https://github.com/user-attachments/assets/de0312d8-3d83-424e-88a3-50d0dd29b030" />
-
+<img width="1272" height="795" alt="Screenshot 2025-07-12 233905" src="https://github.com/user-attachments/assets/7be095c5-f0a5-4630-b3e7-1041b94743e8" />
