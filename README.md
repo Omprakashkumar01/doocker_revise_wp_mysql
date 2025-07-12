@@ -61,3 +61,5 @@ Visit:
 to complete the WordPress installation setup.
 
 
+<img width="1200" height="1200" alt="My personalized network (mynet)" src="https://github.com/user-attachments/assets/de0312d8-3d83-424e-88a3-50d0dd29b030" />
+
